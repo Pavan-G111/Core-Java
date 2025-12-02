@@ -1,5 +1,7 @@
 package com.nit;
 
 public class Tester {
-//hello
+ void main() {
+	 IO.println("Hello JAVA 25");
+ }
 }
